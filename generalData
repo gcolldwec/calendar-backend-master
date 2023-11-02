@@ -1,0 +1,13 @@
+MONGO DB USER AND PASSWORD
+db user: mern_user
+password: WdgPke5Jw8ChlOER
+
+instalaciones
+express: npm i express
+nodemon: npm i nodemon
+mongoose: npm i mongoose
+express-validator: npm i express-validator
+Encrypt: npm i bcryptjs
+JWT: npm i jsonwebtoken
+cors: npm i cors
+moment: npm i moment //para validar fechas
